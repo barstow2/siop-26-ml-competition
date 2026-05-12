@@ -2,7 +2,7 @@
 
 ## Overview
 
-Second-place solution for the [2026 SIOP Machine Learning Competition](https://www.siop.org/post/siop-annual-machine-learning-competition-2026-can-artificial-intelligence-automate-meta-analyses/). The task involved automating the extraction and aggregation of effect sizes from empirical research papers for meta-analytic coding which is a process traditionally done by hand by researchers.
+Second-place solution for the [2026 SIOP Machine Learning Competition](https://computationaloutreach.com/siopmlcompetition2026/overview.html). The task involved automating the extraction and aggregation of effect sizes from empirical research papers for meta-analytic coding which is a process traditionally done by hand by researchers.
 
 The pipeline reads PDFs of academic articles, identifies relevant statistical relationships between psychological constructs, and produces an aggregate Pearson's *r* for each study.
 
